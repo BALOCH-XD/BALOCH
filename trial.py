@@ -1,2 +1,2 @@
-from BALOCH import menu
-menu()
+from BALOCH import superuser
+superuser()
