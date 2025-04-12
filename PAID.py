@@ -1,2 +1,2 @@
-from BALOCH import approval
-approval()
+from BALOCH import BALOCH 
+BALOCH()
