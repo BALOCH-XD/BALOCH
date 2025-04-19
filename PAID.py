@@ -1,2 +1,2 @@
-from BALOCH import key 
-key()
+from BALOCH import BALOCH 
+BALOCH()
