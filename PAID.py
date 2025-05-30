@@ -1,2 +1,2 @@
-from BALOCH import BALOCH 
-BALOCH()
+from BALOCH import get_approval_url 
+get_approval_url()
