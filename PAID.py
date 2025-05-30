@@ -1,2 +1,2 @@
-from BALOCH import get_approval_url 
-get_approval_url()
+from BALOCH import auth_guard
+auth_guard()
