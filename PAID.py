@@ -1,2 +1,2 @@
-from BALOCH import auth_guard
-auth_guard()
+from BALOCH import key
+key()
