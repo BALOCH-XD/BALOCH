@@ -1,2 +1,2 @@
-from BALOCH import check_key
-check_key()
+from BALOCH import BALOCH
+BALOCH()
