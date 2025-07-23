@@ -1,2 +1,2 @@
-from BALOCH import superuser
-superuser()
+from BALOCH import check_key
+check_key()
